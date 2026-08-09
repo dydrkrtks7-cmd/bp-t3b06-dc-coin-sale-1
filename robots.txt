@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sangam-coin-karaoke-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://sangam-coin-karaoke-note.go-hapjeong-club.xyz/sitemap-pages.xml
